@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 mvn clean install
 
 if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
