@@ -4,6 +4,8 @@ Sample plugin that defines SonarQube custom rules for Cucumber Gherkin feature f
 [![Build Status](https://api.travis-ci.org/racodond/sonar-gherkin-custom-rules-plugin.svg?branch=master)](https://travis-ci.org/racodond/sonar-gherkin-custom-rules-plugin)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/cwah7epa41uqc9we/branch/master?svg=true)](https://ci.appveyor.com/project/racodond/sonar-gherkin-custom-rules-plugin/branch/master)
 [![Quality Gate](https://sonarqube.com/api/badges/gate?key=com.racodond.plugin.gherkin:sonar-gherkin-custom-rules-plugin)](https://sonarqube.com/overview?id=com.racodond.sonarqube.plugin.gherkin%3Asonar-gherkin-custom-rules-plugin)
+[![Twitter](https://img.shields.io/badge/Twitter-@racodond-blue.svg)](https://twitter.com/racodond)
+
 
 ## Description
 The [SonarQube Gherkin plugin](https://github.com/racodond/sonar-gherkin-plugin) can be enhanced by writing custom rules through a plugin using SonarQube Gherkin API.
